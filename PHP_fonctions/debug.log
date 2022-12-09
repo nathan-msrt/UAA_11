@@ -1,0 +1,3 @@
+[1209/122028.185:ERROR:registration_protocol_win.cc(107)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[1209/122519.458:ERROR:registration_protocol_win.cc(107)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[1209/122918.203:ERROR:registration_protocol_win.cc(107)] CreateFile: Le fichier spécifié est introuvable. (0x2)
