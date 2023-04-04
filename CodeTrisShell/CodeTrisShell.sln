@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTrisShell", "CodeTrisShell\CodeTrisShell.csproj", "{D761CEF5-9AF0-4209-89B6-907C53E76D18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{839C8F31-A042-45AA-B058-E74C7298237E}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D761CEF5-9AF0-4209-89B6-907C53E76D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D761CEF5-9AF0-4209-89B6-907C53E76D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D761CEF5-9AF0-4209-89B6-907C53E76D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D761CEF5-9AF0-4209-89B6-907C53E76D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34ED9603-3CB5-412D-80DA-0E2FA5163224}
+	EndGlobalSection
+EndGlobal

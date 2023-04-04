@@ -1,0 +1,13 @@
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.AssemblyInfoInputs.cache
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.AssemblyInfo.cs
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.csproj.CoreCompileInputs.cache
+H:\UAA_11\Tableaux\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.exe
+H:\UAA_11\Tableaux\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.deps.json
+H:\UAA_11\Tableaux\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.runtimeconfig.json
+H:\UAA_11\Tableaux\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.runtimeconfig.dev.json
+H:\UAA_11\Tableaux\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.dll
+H:\UAA_11\Tableaux\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.pdb
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.dll
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.pdb
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.genruntimeconfig.cache
+H:\UAA_11\Tableaux\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.csprojAssemblyReference.cache

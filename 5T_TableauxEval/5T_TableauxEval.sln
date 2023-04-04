@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5T_TableauxEval", "5T_TableauxEval\5T_TableauxEval.csproj", "{3047A91F-9B7D-429F-99E8-4911DF0C59C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3047A91F-9B7D-429F-99E8-4911DF0C59C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3047A91F-9B7D-429F-99E8-4911DF0C59C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3047A91F-9B7D-429F-99E8-4911DF0C59C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3047A91F-9B7D-429F-99E8-4911DF0C59C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDFF8D3-FF41-4D8B-8BE8-B87884AAE894}
+	EndGlobalSection
+EndGlobal

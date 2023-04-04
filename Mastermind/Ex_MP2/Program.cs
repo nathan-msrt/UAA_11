@@ -20,6 +20,9 @@ namespace Ex_MP2
 
             do
             {
+                Console.WriteLine("             ");
+                Console.WriteLine("             ");
+                Console.WriteLine("                                             --------------------------------");
                 Console.WriteLine("                                             Bienvenue dans le mastermind !!!");
                 Console.WriteLine("                                             --------------------------------");
                 Console.WriteLine("             ");                  
