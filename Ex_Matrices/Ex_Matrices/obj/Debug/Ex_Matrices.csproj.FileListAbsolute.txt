@@ -1,0 +1,7 @@
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\bin\Debug\Ex_Matrices.exe.config
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\bin\Debug\Ex_Matrices.exe
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\bin\Debug\Ex_Matrices.pdb
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\obj\Debug\Ex_Matrices.csproj.AssemblyReference.cache
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\obj\Debug\Ex_Matrices.csproj.CoreCompileInputs.cache
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\obj\Debug\Ex_Matrices.exe
+C:\ITN\UAA_11\Ex_Matrices\Ex_Matrices\obj\Debug\Ex_Matrices.pdb
