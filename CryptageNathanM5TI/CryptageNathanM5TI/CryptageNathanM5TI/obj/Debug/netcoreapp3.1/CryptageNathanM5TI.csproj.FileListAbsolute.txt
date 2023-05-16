@@ -1,0 +1,5 @@
+C:\ITN\CLONEUUA11\UAA_11\CryptageNathanM5TI\CryptageNathanM5TI\CryptageNathanM5TI\obj\Debug\netcoreapp3.1\CryptageNathanM5TI.csproj.AssemblyReference.cache
+C:\ITN\CLONEUUA11\UAA_11\CryptageNathanM5TI\CryptageNathanM5TI\CryptageNathanM5TI\obj\Debug\netcoreapp3.1\CryptageNathanM5TI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITN\CLONEUUA11\UAA_11\CryptageNathanM5TI\CryptageNathanM5TI\CryptageNathanM5TI\obj\Debug\netcoreapp3.1\CryptageNathanM5TI.AssemblyInfoInputs.cache
+C:\ITN\CLONEUUA11\UAA_11\CryptageNathanM5TI\CryptageNathanM5TI\CryptageNathanM5TI\obj\Debug\netcoreapp3.1\CryptageNathanM5TI.AssemblyInfo.cs
+C:\ITN\CLONEUUA11\UAA_11\CryptageNathanM5TI\CryptageNathanM5TI\CryptageNathanM5TI\obj\Debug\netcoreapp3.1\CryptageNathanM5TI.csproj.CoreCompileInputs.cache

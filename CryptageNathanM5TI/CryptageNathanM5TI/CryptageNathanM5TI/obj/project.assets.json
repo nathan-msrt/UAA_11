@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ITN\\CLONEUUA11\\UAA_11\\Blackjack\\Blackjack\\Blackjack\\Blackjack.csproj",
-      "projectName": "Blackjack",
-      "projectPath": "C:\\ITN\\CLONEUUA11\\UAA_11\\Blackjack\\Blackjack\\Blackjack\\Blackjack.csproj",
+      "projectUniqueName": "C:\\ITN\\CLONEUUA11\\UAA_11\\CryptageNathanM5TI\\CryptageNathanM5TI\\CryptageNathanM5TI\\CryptageNathanM5TI.csproj",
+      "projectName": "CryptageNathanM5TI",
+      "projectPath": "C:\\ITN\\CLONEUUA11\\UAA_11\\CryptageNathanM5TI\\CryptageNathanM5TI\\CryptageNathanM5TI\\CryptageNathanM5TI.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\ITN\\CLONEUUA11\\UAA_11\\Blackjack\\Blackjack\\Blackjack\\obj\\",
+      "outputPath": "C:\\ITN\\CLONEUUA11\\UAA_11\\CryptageNathanM5TI\\CryptageNathanM5TI\\CryptageNathanM5TI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
